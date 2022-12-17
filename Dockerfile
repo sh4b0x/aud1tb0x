@@ -18,6 +18,7 @@ nmap \
 procps \
 socat \
 tcpdump \
+tshark \
 vim \
 wget \
 whatweb \
