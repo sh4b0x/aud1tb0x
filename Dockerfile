@@ -4,7 +4,6 @@ FROM kalilinux/kali-rolling
 RUN apt update -y \
  && apt install -y \
 curl \
-enum4linux \
 ffuf \
 figlet \
 gobuster \
